@@ -1,0 +1,9 @@
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.deps.json
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.dll
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\Mobifin.Contracts.csprojAssemblyReference.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\Mobifin.Contracts.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\Mobifin.Contracts.AssemblyInfoInputs.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\Mobifin.Contracts.AssemblyInfo.cs
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.pdb
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.dll
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Contracts\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.pdb

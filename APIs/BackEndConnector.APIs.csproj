@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>CodeLab.Barq.BackEndConnector.APIs</AssemblyName>
+    <RootNamespace>CodeLab.Barq.BackEndConnector.APIs</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="NLog" Version="4.5.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\BackEndConnector.Core.csproj" />
+    <ProjectReference Include="..\MobifinIntegration\Mobifin.Contracts\Mobifin.Contracts.csproj" />
+    <ProjectReference Include="..\Utilities\Logging\Utilities.Logging.csproj" />
+  </ItemGroup>
+
+</Project>

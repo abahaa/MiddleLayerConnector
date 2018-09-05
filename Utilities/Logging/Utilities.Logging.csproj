@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>CodeLab.Barq.BackEndConnector.Utilities.Logging</AssemblyName>
+    <RootNamespace>CodeLab.Barq.BackEndConnector.Utilities.Logging</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.5.9" />
+  </ItemGroup>
+
+</Project>

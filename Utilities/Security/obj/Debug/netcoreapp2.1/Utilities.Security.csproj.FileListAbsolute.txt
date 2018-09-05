@@ -1,0 +1,17 @@
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.deps.json
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.dll
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.pdb
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.csproj.CoreCompileInputs.cache
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.AssemblyInfoInputs.cache
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.AssemblyInfo.cs
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.dll
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\Utilities\Security\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.pdb
+F:\ToBahaa\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.deps.json
+F:\ToBahaa\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.dll
+F:\ToBahaa\src\Utilities\Security\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.pdb
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.csprojAssemblyReference.cache
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.AssemblyInfoInputs.cache
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\Utilities.Security.AssemblyInfo.cs
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.dll
+F:\ToBahaa\src\Utilities\Security\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Security.pdb

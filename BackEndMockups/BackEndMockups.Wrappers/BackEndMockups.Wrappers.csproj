@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers</AssemblyName>
+    <RootNamespace>CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\MobifinIntegration\Mobifin.Contracts\Mobifin.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

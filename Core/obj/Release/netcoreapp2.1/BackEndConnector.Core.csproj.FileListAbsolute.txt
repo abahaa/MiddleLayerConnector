@@ -1,0 +1,16 @@
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.deps.json
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.dll
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.pdb
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.dll
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.dll
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.dll
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.pdb
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.pdb
+F:\ToBahaa\src\Core\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.pdb
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\BackEndConnector.Core.csprojAssemblyReference.cache
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\BackEndConnector.Core.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\BackEndConnector.Core.AssemblyInfoInputs.cache
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\BackEndConnector.Core.AssemblyInfo.cs
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\BackEndConnector.Core.csproj.CopyComplete
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.dll
+F:\ToBahaa\src\Core\obj\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.pdb

@@ -1,0 +1,9 @@
+F:\ToBahaa\src\Utilities\Logging\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.deps.json
+F:\ToBahaa\src\Utilities\Logging\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.dll
+F:\ToBahaa\src\Utilities\Logging\bin\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.pdb
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\Utilities.Logging.csprojAssemblyReference.cache
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\Utilities.Logging.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\Utilities.Logging.AssemblyInfoInputs.cache
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\Utilities.Logging.AssemblyInfo.cs
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.dll
+F:\ToBahaa\src\Utilities\Logging\obj\Release\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Utilities.Logging.pdb

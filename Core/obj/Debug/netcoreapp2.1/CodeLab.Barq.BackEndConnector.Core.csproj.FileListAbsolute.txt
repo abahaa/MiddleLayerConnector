@@ -1,0 +1,9 @@
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.deps.json
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.dll
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.pdb
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.csprojAssemblyReference.cache
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.csproj.CoreCompileInputs.cache
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.AssemblyInfoInputs.cache
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.AssemblyInfo.cs
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.dll
+E:\src\CL-Git\Fintech\BackEnd_Connector\src\CodeLab.Barq.BackEndConnector.Core\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Core.pdb

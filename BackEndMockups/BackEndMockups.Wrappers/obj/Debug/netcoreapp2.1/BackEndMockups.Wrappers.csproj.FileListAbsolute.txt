@@ -1,0 +1,12 @@
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.deps.json
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.dll
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.pdb
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\BackEndMockups.Wrappers.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\BackEndMockups.Wrappers.AssemblyInfoInputs.cache
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\BackEndMockups.Wrappers.AssemblyInfo.cs
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.dll
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.BackEndMockups.Wrappers.pdb
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.dll
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.pdb
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\BackEndMockups.Wrappers.csprojAssemblyReference.cache
+F:\ToBahaa\src\BackEndMockups\BackEndMockups.Wrappers\obj\Debug\netcoreapp2.1\BackEndMockups.Wrappers.csproj.CopyComplete

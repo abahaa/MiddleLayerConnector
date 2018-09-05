@@ -1,0 +1,9 @@
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Wrappers.deps.json
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Wrappers.dll
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Wrappers.pdb
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\Mobifin.Wrappers.csprojAssemblyReference.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\Mobifin.Wrappers.csproj.CoreCompileInputs.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\Mobifin.Wrappers.AssemblyInfoInputs.cache
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\Mobifin.Wrappers.AssemblyInfo.cs
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Wrappers.dll
+F:\ToBahaa\src\MobifinIntegration\Mobifin.Wrappers\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Wrappers.pdb
