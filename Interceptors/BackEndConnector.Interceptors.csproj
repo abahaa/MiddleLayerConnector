@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MobifinIntegration\Mobifin.Contracts\Mobifin.Contracts.csproj" />
     <ProjectReference Include="..\Utilities\Logging\Utilities.Logging.csproj" />
   </ItemGroup>
 

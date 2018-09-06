@@ -2066,6 +2066,7 @@
       },
       "CodeLab.Barq.BackEndConnector.Interceptors/1.0.0": {
         "dependencies": {
+          "CodeLab.Barq.BackEndConnector.Mobifin.Contracts": "1.0.0",
           "CodeLab.Barq.BackEndConnector.Utilities.Logging": "1.0.0",
           "NLog": "4.5.9",
           "Newtonsoft.Json": "11.0.2"

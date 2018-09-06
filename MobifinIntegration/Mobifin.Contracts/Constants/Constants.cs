@@ -29,7 +29,8 @@ namespace CodeLab.Barq.BackEndConnector.Mobifin.Contracts
     public enum GeneralError
     {
         Nullable_Request = 1,
-        Some_Thing_Went_Wrong = 2,
+        Token_Not_Exist = 2,
+        Some_Thing_Went_Wrong = 3,
     }
 
     public class Constants
@@ -96,6 +97,7 @@ namespace CodeLab.Barq.BackEndConnector.Mobifin.Contracts
                 {
                     _GeneralErrorDic = new Dictionary<GeneralError, string>();
                     _GeneralErrorDic.Add(GeneralError.Nullable_Request, "your request has not been sent as expected");
+                    _GeneralErrorDic.Add(GeneralError.Token_Not_Exist, "Didn't provide token in the request");
                     _GeneralErrorDic.Add(GeneralError.Some_Thing_Went_Wrong, "Some thing Went Wrong Please Try again");
                 }
                 return _GeneralErrorDic;

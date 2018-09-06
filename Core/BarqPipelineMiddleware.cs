@@ -21,26 +21,14 @@ namespace CodeLab.Barq.BackEndConnector.Core
 
         public async Task InvokeAsync(HttpContext context)
         {
-            RequestLoggerInterceptors.LogRequest(new object[] { context.Request.Body, context.Request.Headers });
-            if(AuthenticationInterceptor.AuthenticateUser(context.Request.Body) == false)
+            //RequestLoggerInterceptors.LogRequest(new object[] { context.Request.Body, context.Request.Headers });
+            CodeLabException codelabExp = AuthenticationInterceptor.AuthenticateUser(context.Request);
+            if (codelabExp != null)
             {
-                CodeLabException codelabExp = new CodeLabException
-                {
-                    ErrorCode = (int)ErrorCode.General_Error,
-                    SubErrorCode = (int)GeneralError.Some_Thing_Went_Wrong,
-                    ErrorReferenceNumber = "UU-266169856"
-                };
-
-                //codelabExp.ExtraInfoMessage = "call failed because " + Constants.GeneralErrorDic[GeneralError.Some_Thing_Went_Wrong];
-                codelabExp.ExtraInfoMessage ="Didn't Recieve token";
-
                 context.Response.StatusCode = 490;
                 context.Response.ContentType = "application/json";
-
                 string jsonString = JsonConvert.SerializeObject(codelabExp);
-
                 await context.Response.WriteAsync(jsonString, Encoding.UTF8);
-
                // to stop futher pipeline execution 
                return;  
             }

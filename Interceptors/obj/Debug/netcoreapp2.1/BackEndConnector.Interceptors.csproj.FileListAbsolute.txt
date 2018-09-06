@@ -18,3 +18,5 @@ F:\ToBahaa\src\Interceptors\obj\Debug\netcoreapp2.1\BackEndConnector.Interceptor
 F:\ToBahaa\src\Interceptors\obj\Debug\netcoreapp2.1\BackEndConnector.Interceptors.csproj.CopyComplete
 F:\ToBahaa\src\Interceptors\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Interceptors.dll
 F:\ToBahaa\src\Interceptors\obj\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Interceptors.pdb
+F:\ToBahaa\src\Interceptors\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.dll
+F:\ToBahaa\src\Interceptors\bin\Debug\netcoreapp2.1\CodeLab.Barq.BackEndConnector.Mobifin.Contracts.pdb
